@@ -1,0 +1,4 @@
+image: openjdk
+
+tasks:
+  - init: ./mvnw install -DskipTests=false
